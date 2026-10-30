@@ -1,0 +1,17 @@
+# Build artifacts
+build/
+out/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Local env
+.env
+*.local
